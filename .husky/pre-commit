@@ -1,0 +1,5 @@
+#!/bin/sh
+
+
+# add license format
+npm run licenseFormat
