@@ -1,8 +1,12 @@
 <p align="center">
-	<a href="https://anyilanxin.com"><img src="./docs/images/logo.png" width="24%"></a>
+	<a href="https://anyilanxin.com"><img src="./docs/images/logo.png" width="14%"></a>
+</p>
+<p align="center">
+AnYi Standalone Vue
 </p>
 
-# AnYi Cloud Web
+AnYi Standalone Vue
+-----------------------------------
 
 vue3、vite、antdesign vue、anyi-cloud(micro service)
 
