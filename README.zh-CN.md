@@ -8,7 +8,7 @@ AnYi Standalone Vue
 AnYi Standalone Vue
 -----------------------------------
 
-vue3、vite、antdesign vue、anyi-cloud(micro service)
+vue3、vite、vue、anyi-standalone
 
 当前最新版本： 1.0.0-alpha2（发布日期：2022-08-07）
 
