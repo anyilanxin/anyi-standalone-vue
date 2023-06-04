@@ -1,8 +1,14 @@
-<img src="./docs/images/logo.png"  height="200" width="200">
+<p align="center">
+	<a href="https://anyilanxin.com"><img src="./docs/images/logo.png" width="14%"></a>
+</p>
+<p align="center">
+AnYi Standalone Vue
+</p>
 
-# AnYi Standalone Web
+AnYi Standalone Vue
+-----------------------------------
 
-vue3、vite、antdesign vue、anyi-standalone
+vue3、vite、antdesign vue、anyi-cloud(micro service)
 
 当前最新版本： 1.0.0-alpha2（发布日期：2022-08-07）
 
